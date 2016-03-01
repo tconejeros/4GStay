@@ -1,0 +1,11 @@
+application: id4gstay
+version: v-001
+runtime: go
+api_version: go1.6
+
+handlers:
+- url: /.*
+  script: _go_app
+  # login: required
+  # auth_fail_action: redirect
+  
