@@ -1,5 +1,5 @@
 application: 4gstay
-version: alpha
+# version: alpha
 runtime: go
 api_version: go1.6
 
