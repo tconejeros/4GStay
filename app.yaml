@@ -1,4 +1,4 @@
-application: id4gstay
+application: 4gstay
 version: alpha001
 runtime: go
 api_version: go1.6
