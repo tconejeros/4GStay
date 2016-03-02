@@ -1,7 +1,7 @@
-application: 4gstay
-# version: alpha
+application: 4GStay
+version: alpha1
 runtime: go
-api_version: go1.6
+api_version: go1
 
 handlers:
 - url: /.*
