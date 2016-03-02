@@ -1,5 +1,5 @@
 application: id4gstay
-version: v001
+version: alpha001
 runtime: go
 api_version: go1.6
 
